@@ -1,2 +1,2 @@
-# angular2
-Angular 2
+# Angular2
+Angular 2 tutorials repository
